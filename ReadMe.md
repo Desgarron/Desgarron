@@ -1,4 +1,4 @@
-# Hello Samurai and Slava Ukraini!⚔️ <img align="center" width="50px" height="50px" src="https://github.com/Desgarron/Desgarron/blob/main/asset/flag-ukrainepng.png" />
+# Hello and Slava Ukraini!⚔️ <img align="center" width="50px" height="50px" src="https://github.com/Desgarron/Desgarron/blob/main/asset/flag-ukrainepng.png" />
 
 ### My name is Yaroslav and I would like to be a strongest QA Engineer!
 - 👀 I am interested in a lifecycle of software development.
